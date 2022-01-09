@@ -123,6 +123,7 @@ void run_counting_mode()
         lcd.print(session_strokes_expected);
         prev_engaged = is_engaged;
         delay(time_slice);
+        delay(200);
     }
 }
 void run_golf_mode()
