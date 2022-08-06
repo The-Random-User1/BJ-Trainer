@@ -1,6 +1,7 @@
 # BJ-Trainer
 Multi-mode Arduino based BJ trainer
-Made by PS (Pseudonym) on reddit, the absolute legend.
+Code made by PS (Pseudonym) on reddit, the absolute legend.
+Code bug fixed by dbwhite on Fiver for a very generous fee.
 
 Modes (Current mode switching is done via power cycling)
   Golf
